@@ -25,7 +25,7 @@ Las preguntas que vamos a responder son:
 3. ¿Cambia la gamma diversidad entre las zonas?
 4. ¿Cambia la beta diversidad según la zona?
 5. ¿Existen diferencias en la composición de especies según la zona?
-6  De haber beta diversidad entre zonas ¿responde a recambio o pérdida de especies?
+6.  De haber beta diversidad entre zonas ¿responde a recambio o pérdida de especies?
 
 Para responder cada una de estas preguntas usaremos el lenguaje de programación estadística **R** y una serie de paquetes especialmente diseñados para temas de diversidad, así como otros útiles para administrar y visualizar datos. Todos los indicados deben ser cargados en su sesión de R:
 
